@@ -7,12 +7,13 @@
             "author": "Lucas",
             "version": "1.0.0",
             "icon": "https://github.com/lsgastaldo/teste-apex-sample-apps/blob/main/512x512bb.jpg",
-	    	"url": "https://github.com/lsgastaldo/teste-apex-sample-apps/blob/main",
+	    	"url": "https://github.com/lsgastaldo/teste-apex-sample-apps",
 	    	"source": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.sql",
 			"zip": "https://github.com/lsgastaldo/teste-apex-sample-apps/raw/refs/heads/main/base_app.zip"
 		}
     ]
 }
+
 
 
 
