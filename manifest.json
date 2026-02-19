@@ -11,7 +11,31 @@
 	    	"source": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.sql",
 			"zip": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.zip"
 		}
+    ],
+	"starterApps": [
+		{
+			"internalName": "JDE_APPS_BASE",
+			"name": "Base JDE App",
+			"description": "Aplicação base para todas as aplicações JDE Apps",
+			"author": "Lucas",
+			"version": "1.0.0",
+			"icon": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/fd64b9aa6b4c4e0b776aec5027a31df4283f6dbc/jdeapps_fundoazul_textbranco.png",
+			"url": "https://github.com/lsgastaldo/teste-apex-sample-apps",
+			"source": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.sql",
+			"zip": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.zip"
+		}
+    ],
+	"customApps": [
+		{
+			"internalName": "JDE_APPS_BASE",
+			"name": "Base JDE App",
+			"description": "Aplicação base para todas as aplicações JDE Apps",
+			"author": "Lucas",
+			"version": "1.0.0",
+			"icon": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/fd64b9aa6b4c4e0b776aec5027a31df4283f6dbc/jdeapps_fundoazul_textbranco.png",
+			"url": "https://github.com/lsgastaldo/teste-apex-sample-apps",
+			"source": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.sql",
+			"zip": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.zip"
+		}
     ]
 }
-
-
