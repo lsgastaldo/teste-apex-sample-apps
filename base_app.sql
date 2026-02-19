@@ -16,9 +16,9 @@ wwv_flow_imp.import_begin (
  p_version_yyyy_mm_dd=>'2022.04.12'
 ,p_release=>'22.1.0'
 ,p_default_workspace_id=>1270320692277160
-,p_default_application_id=>273
-,p_default_id_offset=>0
-,p_default_owner=>'APEX_WS_TESTE'
+,p_default_application_id=>1000
+,p_default_id_offset=>1
+,p_default_owner=>''
 );
 end;
 /
