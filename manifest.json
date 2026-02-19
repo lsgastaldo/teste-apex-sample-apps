@@ -6,7 +6,7 @@
             "description": "Aplicação base para todas as aplicações JDE Apps",
             "author": "Lucas",
             "version": "1.0.0",
-            "icon": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/blob/main/512x512bb.svg",
+            "icon": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/blob/main/512x512bb.png",
 	    	"url": "https://github.com/lsgastaldo/teste-apex-sample-apps",
 	    	"source": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.sql",
 			"zip": "https://raw.githubusercontent.com/lsgastaldo/teste-apex-sample-apps/refs/heads/main/base_app.zip"
