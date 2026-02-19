@@ -1,0 +1,15 @@
+{
+    "BaseApp": [
+        {
+            "internalName": "JDE Apps Base",
+            "name": "Base JDE App",
+            "description": "Aplicação base para todas as aplicações JDE Apps",
+            "author": "Lucas",
+            "version": "1.0.0",
+            "icon": "https://github.com/lsgastaldo/teste-apex-sample-apps/blob/main/512x512bb.jpg",
+	    "url": "https://github.com/lsgastaldo/teste-apex-sample-apps/blob/main",
+	    "source": "https://github.com/lsgastaldo/teste-apex-sample-apps/blob/main/base_app.sql"
+	}
+    ]
+}
+
